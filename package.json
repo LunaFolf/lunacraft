@@ -1,7 +1,7 @@
 {
   "name": "lunacraft",
   "version": "1.0.0",
-  "description": "",
+  "description": "A framework for handling the creation, management, and serving of a Minecraft server.",
   "main": "index.ts",
   "scripts": {
     "start": "ts-node index.ts",
