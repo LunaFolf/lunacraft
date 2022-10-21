@@ -1,4 +1,4 @@
-# Server Profiles
+# 🪪 Server Profiles
 
 The concept of server profiles is `yaml/json/etc` files that can define a structure for a server.
 
@@ -7,7 +7,7 @@ So rather than the Framework defaulting to the usual port, world folder, and oth
 ---
 
 ## Potential format PoC
-> :warning: **No file type has been decided yet**: The value(s) below are purely pseudo examples.
+⚠️ **No file type has been decided yet**: The value(s) below are purely pseudo examples.
 
 ```yaml
 profile_name: Example1

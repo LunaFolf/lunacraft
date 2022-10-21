@@ -1,5 +1,4 @@
-# LunaCraft
-
+# 🏳️‍⚧️ LunaCraft 🚀
 A framework for handling the creation, management, and serving of a Minecraft server.
 
 ---
@@ -10,6 +9,8 @@ Honestly, no specific reason.
 I could have downloaded an existing manager online, but I wanted to screw around and see how it typically works, and try my own ideas.
 
 Plus, it also gave me an excuse to start practising more **TypeScript**, which is a plus.
+
+---
 
 ## Features
 - [x] Jar version manager (PaperMC)
