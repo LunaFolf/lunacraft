@@ -2,16 +2,16 @@
   "name": "lunacraft",
   "version": "1.0.0",
   "description": "",
-  "main": "index.ts",
+  "main": "src/index.ts",
   "scripts": {
-    "start": "ts-node index.ts",
+    "start": "ts-node src/index.ts",
     "build": "tsc -p ."
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "_moduleAliases": {
-    "@": "./src"
+    "@": "./dist"
   },
   "devDependencies": {
     "@types/node": "^18.11.3",
